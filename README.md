@@ -179,3 +179,18 @@ The notebook includes a section that visualizes what the CNN actually learned:
 - **Feature maps (Layer 2 — 64 maps)**: Smaller (due to MaxPooling) but more abstract. They combine basic features from Layer 1 into more complex patterns, demonstrating the hierarchical nature of CNN feature learning.
 
 ---
+
+## Deployment on AWS SageMaker
+
+The notebook was uploaded and executed on **Amazon SageMaker** to train the model in the cloud.
+
+### Process
+
+1. **Uploaded the notebook** to SageMaker Notebook Instance
+2. **Executed all cells** including data loading, preprocessing, baseline model, CNN model, and controlled experiments
+3. **Trained models in the cloud** using SageMaker's compute resources
+
+### Evidence
+
+
+---
