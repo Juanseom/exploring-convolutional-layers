@@ -192,5 +192,6 @@ The notebook was uploaded and executed on **Amazon SageMaker** to train the mode
 
 ### Evidence
 
+![SageMaker Evidence](docs/images/SageMaker_Evidence.png)
 
 ---
